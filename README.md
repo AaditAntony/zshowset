@@ -30,5 +30,6 @@ did not come today
 
 -------------------------------------------
 Edwin Moses
+<br>
 today is the ofiicial day of this first class
 taught him dart , variable ,datatype and conditional statement
