@@ -30,4 +30,4 @@ did not come today
 
 -------------------------------------------
 Edwin Moses
-
+today is the ofiicial day of this first class
