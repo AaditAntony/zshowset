@@ -1,4 +1,4 @@
-g# zshowset
+sg# zshowset
 What i did today     -------- 7/7/2026
 
 Punjami and Savad
